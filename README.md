@@ -1,2 +1,2 @@
 # clobber
-dom clobbering script - educational use only!
+steps are in the code
